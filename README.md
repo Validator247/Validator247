@@ -1,6 +1,6 @@
 # Hi there 👋
 pecializing in operating nodes and validators on EVM and Cosmos ecosystems with Proof-of-Stake algorithms
-https://linktr.ee/validator247
+A bit of an introduction about myself.: https://linktr.ee/validator247
 
 My server providers.
 - Digitalocean
