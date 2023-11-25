@@ -9,6 +9,9 @@ My server providers.
 Validator 
 - Persistence 
 - Aatra network
+- Archway
+- Shentu
+- 
 
 Validator testnet:
 - Celestia
