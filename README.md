@@ -11,12 +11,17 @@
     Traffic:	Unlimited *
     Available Locations	: Germany
 
+X:  https://twitter.com/Validator247
 
+Telegram: https://t.me/Validator247
 
+Website: https://validator247.com/
 
+Email: validator247@gmail.com 
+
+Discord: https://discord.com/channels/@validator247
 
 pecializing in operating nodes and validators on EVM and Cosmos ecosystems with Proof-of-Stake algorithms
-A bit of an introduction about myself.: https://linktr.ee/validator247
 
 Validator :
 - Shentu mainnet: https://explorer.validator247.com/shentu/staking/shentuvaloper1jrwns20hv4av72qm6dzr96t7g8us0peeqzv88c
