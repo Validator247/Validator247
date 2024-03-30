@@ -3,9 +3,7 @@
 #My Dedicated:
 
 AMD EPYC™ 9454P
-
 incl. Simultaneous Multithreading
-
 RAM:	256 GB DDR5 ECC reg.
 
 optional max. 1152 GB DDR5 ECC reg. (for additional charge)
