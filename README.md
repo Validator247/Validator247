@@ -2,25 +2,17 @@
 
 #My Dedicated:
 
-AMD EPYC™ 9454P
-incl. Simultaneous Multithreading
-RAM:	256 GB DDR5 ECC reg.
+    AMD EPYC™ 9454P (incl. Simultaneous Multithreading)
+    RAM:	256 GB DDR5 ECC reg. optional max. 1152 GB DDR5 ECC reg. (for additional charge)
+    Disk:	2 x 1.92 TB NVMe SSD Datacenter Edition (Gen 4)(software RAID 1)
+    Connection:	1 GBit/s-Port
+    Bandwidth guaranteed:	1 GBit/s
+    Backup Space:	100 GB
+    Traffic:	Unlimited *
+    Available Locations	: Germany
 
-optional max. 1152 GB DDR5 ECC reg. (for additional charge)
 
-Disk:	2 x 1.92 TB NVMe SSD Datacenter Edition (Gen 4)
 
-(software RAID 1)
-
-Connection:	1 GBit/s-Port
-
-Bandwidth guaranteed:	1 GBit/s
-
-Backup Space:	100 GB
-
-Traffic:	Unlimited *
-
-Available Locations	: Germany
 
 
 pecializing in operating nodes and validators on EVM and Cosmos ecosystems with Proof-of-Stake algorithms
