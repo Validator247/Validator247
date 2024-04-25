@@ -26,6 +26,7 @@ pecializing in operating nodes and validators on EVM and Cosmos ecosystems with 
 Validator :
 - Shentu mainnet: https://explorer.validator247.com/shentu/staking/shentuvaloper1jrwns20hv4av72qm6dzr96t7g8us0peeqzv88c
 - Nibiru mainnet: https://explorer.nodestake.org/nibiru/staking/nibivaloper1kwj7slmpduts2cjzz29ed8w0n3wyh768c8r00m
+- Dymension : https://explorer.validatorvn.com/Dymension-Mainnet/staking/dymvaloper13xtnyjw7e768n64wp6uxt8wjxcacwupusg6k7n
 
 Validator testnet:
 - Celestia
