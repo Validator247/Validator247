@@ -2,7 +2,9 @@
 # ABOUT VALIDATOR247
 
    Validator247 stands as a reliable entity in providing Proof-of-Stake (PoS) validator and Tendermint chain services. Our dedication to the blockchain community is evident through our diverse offerings, including community management, moderation, and guiding users through the process of staking their cryptocurrencies for rewards. With a firm commitment to fostering the expansion of Web3 and the Proof-of-Stake ecosystem, we deliver a secure staking service devoid of custodial control.
-    
+
+EXPLORER:   https://explorer.validator247.com/
+
 # My Dedicated:
 
 - AMD EPYC™ 9454P (incl. Simultaneous Multithreading)
@@ -14,6 +16,8 @@
 - Traffic:	Unlimited *
 - Available Locations	: Germany
 
+# Social Network
+
 X:  https://twitter.com/Validator247
 
 Telegram: https://t.me/Validator247
@@ -24,7 +28,6 @@ Email: validator247@gmail.com
 
 Discord: https://discord.com/channels/@validator247
 
-pecializing in operating nodes and validators on EVM and Cosmos ecosystems with Proof-of-Stake algorithms
 
 # Mainnet Validator :
 - Shentu mainnet: https://explorer.validator247.com/shentu/staking/shentuvaloper1jrwns20hv4av72qm6dzr96t7g8us0peeqzv88c
