@@ -1,7 +1,7 @@
 # Hi there 👋
 # ABOUT VALIDATOR247
 
-    Validator247 stands as a reliable entity in providing Proof-of-Stake (PoS) validator and Tendermint chain services. Our dedication to the blockchain community is evident through our diverse offerings, including community management, moderation, and guiding users through the process of staking their cryptocurrencies for rewards. With a firm commitment to fostering the expansion of Web3 and the Proof-of-Stake ecosystem, we deliver a secure staking service devoid of custodial control.
+   Validator247 stands as a reliable entity in providing Proof-of-Stake (PoS) validator and Tendermint chain services. Our dedication to the blockchain community is evident through our diverse offerings, including community management, moderation, and guiding users through the process of staking their cryptocurrencies for rewards. With a firm commitment to fostering the expansion of Web3 and the Proof-of-Stake ecosystem, we deliver a secure staking service devoid of custodial control.
     
 # My Dedicated:
 
