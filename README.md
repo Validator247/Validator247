@@ -1,4 +1,6 @@
 # Hi there 👋
+# ABOUT VALIDATOR247
+Stake your cryptocurrencies and earn rewards with our non-custodial staking service. Support the growth of Web3 and the Proof-of-Stake ecosystem by becoming an active ecosystem contributor, community manager, and moderator. We provide trusted Proof-of-Stake validator and Tendermint chain services to help you engage with the blockchain community.
 
 # My Dedicated:
 
